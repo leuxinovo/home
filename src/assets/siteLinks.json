@@ -23,5 +23,10 @@
     "icon": "Image",
     "name": "图床",
     "link": "https://img.leu.pp.ua/"
+  },
+  {
+    "icon": "Server",
+    "name": "探针",
+    "link": "https://www.leu.pp.ua/"
   }
 ]
