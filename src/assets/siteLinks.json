@@ -10,11 +10,6 @@
     "link": "http://music.163.com/playlist/5445814955/306679531?userid=306679531"
   },
   {
-    "icon": "Compass",
-    "name": "起始页",
-    "link": "https://home.techleu.de/"
-  },
-  {
     "icon": "LaptopCode",
     "name": "站点监测",
     "link": "https://status.leu.pp.ua/"
@@ -28,5 +23,10 @@
     "icon": "Server",
     "name": "探针",
     "link": "https://www.leu.pp.ua/"
+  },
+  {
+    "icon": "Terminal",
+    "name": "WebSSH",
+    "link": "https://ssh.techleu.de/"
   }
 ]
